@@ -1,3 +1,23 @@
+
+
+
+CAPSTONE PROJECT:
+
+N&B BEAUTY VAULT: A RECOMMENDER SYSTEM THAT
+USES HYBRID FILTERING FOR HAIR CARE PRODUCTS IN
+AN E-COMMERCE PLATFORM
+
+
+CAPSTONE MEMBERS:
+
+BONGCAWIL, JAYDE BOY D.
+BUENAFLOR, KHENY B.
+CASAGNAP, DIETHER Y.
+PABELONIO, MARC NEIL B.
+TABUDLONG, VAN DAVID T.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
